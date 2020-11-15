@@ -1,4 +1,4 @@
-# arabamcom-case
+# haber-case
 
 ## Project setup
 ```
